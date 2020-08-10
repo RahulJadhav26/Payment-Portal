@@ -1,0 +1,4 @@
+module.exports={
+    skey:'sk_test_51HChS4BwyLv6XGQTQJPBQCWrJvYPV0O5K8eEwCNsjfWvfxmCHyLNxJx5Gbiv1WEkEFzcIqTgNJLlEC9ns4acRW9o00WVPzTbNX',
+    pkey:'pk_test_51HChS4BwyLv6XGQTSoFPXmrgittbuLkcTfZWLKh4w4rpZoaxsIPTKOldXbuuGYeRuhSzhvUixS5vi0K8VHoksqOb00dgXopF6V'
+}
