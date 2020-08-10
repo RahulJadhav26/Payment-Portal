@@ -27,7 +27,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 This is a payment portal made using Vuejs for Front End and nodejs,Express for Backend Server.
 
-This payment portal is has Stripe as well as Paytm Portal integrated with a basic Front-end (Vuejs) form.This is a ready to use as well as can be used to integrate your own website.
+This payment portal is has Stripe as well as Paytm Portal integrated with a basic Front-end (Vuejs) form.This is ready to use and can be used to integrate in your own website.
 
 NOTE:- Find config folder in /client/server/config.js and Input your Paytm MID and Merchant Key which can be found here(https://dashboard.paytm.com/next/get-started).Similarly for Stripe Payment key find your keys here(https://dashboard.stripe.com/test/apikeys) 
 
