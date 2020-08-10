@@ -1,7 +1,7 @@
 <template>
   <div class="container">
 <b-navbar toggleable="lg" type="light">
-    <b-navbar-brand href="#">Gargi Enterprise</b-navbar-brand>
+    <b-navbar-brand href="#">Brand Name</b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
