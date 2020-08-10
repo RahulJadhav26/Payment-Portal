@@ -1,23 +1,18 @@
 <template>
 <div>
 <NavBar/>
-<v-row>
-  <v-col>
-    <img class= "logo" src="../assets/Gargi.jpg">
-  </v-col>
-  <v-col>
-    <h2>Welcome to our Payment Portal</h2>
+<h2>Welcome to our Payment Portal</h2>
     <div class="intro">
       <ul>
         Types of Payment accepted here:
+        <li class="m-2">Netbanking</li>
+        <li class="m-2">UPI</li>
+        <li class="m-2">Paytm</li>
         <li class="m-2">Credit Card</li>
         <li class="m-2">Debit Card</li>
         <li class="m-2">Banking</li>
       </ul>
     </div>
-    </v-col>
-</v-row>
-
 </div>
 </template>
 

@@ -218,7 +218,7 @@ export default {
 .PayeeDetails{
     margin:50px 500px 100px 500px;
     padding: 50px;
-    border: 1px solid white;
+    border: 1px solid Black;
     border-radius:3.5rem;
 
 }
